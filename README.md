@@ -54,7 +54,7 @@ where:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vibration-simulation.git
+git clone https://github.com/arturr0/vibration-simulation.git
 cd vibration-simulation
 ```
 Install required packages:
